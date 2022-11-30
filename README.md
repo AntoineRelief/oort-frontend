@@ -27,6 +27,8 @@ To read more about the project, and how to setup the back-end, please refer to t
 *   [Deployment](https://gitlab.com/who-ems/ui-doc#how-to-deploy)
 
 
+fix 1.2.1 ?
+
 # General
 
 The project is seperated into four sub-projects:
