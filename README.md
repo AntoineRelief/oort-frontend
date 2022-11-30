@@ -29,6 +29,10 @@ To read more about the project, and how to setup the back-end, please refer to t
 
 fix 1.2.1 ?
 
+beta feat
+
+new feat
+
 # General
 
 The project is seperated into four sub-projects:
