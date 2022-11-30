@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/AntoineRelief/oort-frontend/compare/v1.2.0...v1.2.1) (2022-11-30)
+
+
+### Bug Fixes
+
+* **readme:** fix readme ([201461b](https://github.com/AntoineRelief/oort-frontend/commit/201461be5ef6c25d22865e41e8e0c250c2ed4f54))
+
 # [1.2.0](https://github.com/AntoineRelief/oort-frontend/compare/v1.1.0...v1.2.0) (2022-11-30)
 
 
