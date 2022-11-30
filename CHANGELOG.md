@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/AntoineRelief/oort-frontend/compare/v1.1.0...v1.2.0) (2022-11-30)
+
+
+### Features
+
+* **ci:** update release workflow file ([786e430](https://github.com/AntoineRelief/oort-frontend/commit/786e430f33a389765385a942106fd7cc6eb4a187))
+* **readme:** update readme ([1e693b1](https://github.com/AntoineRelief/oort-frontend/commit/1e693b16a410b03d89fee37babbf6bf4e901caf6))
+
 # [1.1.0](https://github.com/AntoineRelief/oort-frontend/compare/v1.0.0...v1.1.0) (2022-11-30)
 
 
