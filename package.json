@@ -158,8 +158,10 @@
   },
   "release": {
     "branches": [
-      "release-+([0-9])?(.{+([0-9]),x}).x",
+      "+([0-9])?(.{+([0-9]),x}).x",
       "main",
+      "next",
+      "next-major",
       {
         "name": "beta",
         "prerelease": true
@@ -167,9 +169,6 @@
       {
         "name": "alpha",
         "prerelease": true
-      },
-      {
-        "name": "hotfix-1.x"
       }
     ],
     "plugins": [
