@@ -1,3 +1,10 @@
+# [1.3.0-beta.2](https://github.com/AntoineRelief/oort-frontend/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2022-11-30)
+
+
+### Features
+
+* **readme:** test new thing ([e778798](https://github.com/AntoineRelief/oort-frontend/commit/e778798bf0d979303b0a950acf59b1db530e39ea))
+
 # [1.3.0-beta.1](https://github.com/AntoineRelief/oort-frontend/compare/v1.2.1...v1.3.0-beta.1) (2022-11-30)
 
 
